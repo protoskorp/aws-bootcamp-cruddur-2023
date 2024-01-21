@@ -1,4 +1,4 @@
-# Install python version
+# Instaling python version
 ```
 pyenv install 3.10.9
 ```
